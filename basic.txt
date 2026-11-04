@@ -1,0 +1,15 @@
+GIT COMMANDS(in terminals) :these are some basic git command to access git
+git config --userr.name "name" // name of the config of git hub
+git config --global email.name "email" // name ofthe email u want to change the repository
+git config --list //to show details in the git bash or terminal
+git clone "link" //to access or copu git in vscode in terminal
+cd name of folder //this is used to go in folder inside folder like to open git folder inside vscode
+clear //used to clear terminal
+ls //used to show the list of files
+ls -a //used to show all files even hidden one too
+git status //to get status of the file or folder
+basic files in git :- untracked (new files that git had not tracked),modified (changed),staged (file is ready to be commited),unmodified (unchnaged)
+git add <file name> // to stage a untracked file
+git add . //it is used to add all the files in the folder ti be stage or ready to be commited
+git commit -m "msg"//in this we make commtment 
+git push origin main //command to push commit or changes to git hub
