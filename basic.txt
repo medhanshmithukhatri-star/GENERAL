@@ -13,3 +13,8 @@ git add <file name> // to stage a untracked file
 git add . //it is used to add all the files in the folder ti be stage or ready to be commited
 git commit -m "msg"//in this we make commtment 
 git push origin main //command to push commit or changes to git hub
+mkdir // make a new directory
+cd .. // to exit directory
+git remote add "name" link // it is used to add a new repo in vs code and its name 
+git remote -v //used to verify the remote !
+git branch // to check branch
